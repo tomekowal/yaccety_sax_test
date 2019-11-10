@@ -1,0 +1,3 @@
+%{
+  "yaccety_sax": {:git, "https://github.com/zadean/yaccety_sax.git", "a86f72e4db63a1db8ece7aca83bfbf7364c09906", []},
+}
